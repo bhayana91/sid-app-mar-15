@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "sid-app-mar-15"
+  description: "test"
+  annotations:
+    github.com/project-slug: bhayana91/react-app-deploy
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "user:default/bhayana91"

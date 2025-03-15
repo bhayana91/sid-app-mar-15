@@ -1,0 +1,8 @@
+site_name: "sid-app-mar-15"
+site_description: "test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
